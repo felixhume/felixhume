@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @felixhume
+- 👀 I’m interested in python, cybersecurity, linux, and game development in general
+- 🌱 I’m currently learning cybersecurity and java game development
+- 💞️ I’m looking to collaborate on nothing at the moment
+- 📫 How to reach me at potentiallynotfelix@gmail.com(i dont check it much tho)
